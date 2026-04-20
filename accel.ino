@@ -1,3 +1,8 @@
+// RÖD -> 3.3V
+// SVART -> GND
+// ORANGE -> Pin 21
+// BLÅ -> Pin 20
+
 #include <Wire.h>
 
 #define MPU 0x68
